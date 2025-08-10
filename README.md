@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact👋 About Me<br>🚀 Currently Building:<br>A full-stack portfolio website using React (Vite), Node.js, and MSSQL.<br><br>🤝 Open to Collaborate On:<br>Projects involving .NET, React (Vite), Node.js, MSSQL, MongoDB, Flutter, C++, HTML, CSS, JavaScript, Tailwind CSS, or Bootstrap.<br><br>🌱 Learning:<br>TypeScript, GraphQL, Docker, and advanced Flutter development.<br><br>🔍 Looking For:<br>Guidance on backend architecture, cloud deployment, and C++ optimization.<br><br>💬 Ask Me About:<br>JavaScript, React, Vite, Node.js, MSSQL, MongoDB, .NET, Flutter, C++, HTML, CSS, Tailwind CSS, and Bootstrap.<br><br>⚡ Fun Fact:<br>I love tackling algorithm challenges.
+# Hi,👋 I’m Qasim Ali
+💫 About Me:<br>🔭 Currently Building: Full-stack portfolio website with React (Vite), Node.js, and MSSQL.<br>👯 Open to Collaborate On: .NET, React, Node.js, MSSQL, MongoDB, Flutter, and more.<br>🌱 Learning: TypeScript, GraphQL, Docker, advanced Flutter.<br>💬 Ask Me About: JavaScript, React, Node.js, .NET, Flutter, MSSQL, MongoDB, C++.<br>⚡ Fun Fact: I love solving algorithm challenges.<br><br>
 
 
 ## 🌐 Socials:
